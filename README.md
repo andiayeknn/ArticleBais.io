@@ -46,7 +46,7 @@ NLTK / Spacy (Text preprocessing and feature extraction)
 
 ## Authors <!--- do not change this line -->
 
-Amadou Ndiaye (Data Cleaning & Integration, Random Forest Implementation, Error Analysis) - andiayeknn@gmail.com
+Amadou Ndiaye (Data Cleaning & Integration, Linear Regression Implementation, Error Analysis) - andiayeknn@gmail.com
 
 Aisha Nishat (Dataset Acquisition, Naive Bayes Implementation, Correlation Analysis)
 
